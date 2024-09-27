@@ -1,0 +1,3 @@
+C:/Users/gioel/CLionProjects/esercizio2.12/cmake-build-debug/CMakeFiles/esercizio2_12.dir
+C:/Users/gioel/CLionProjects/esercizio2.12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gioel/CLionProjects/esercizio2.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
